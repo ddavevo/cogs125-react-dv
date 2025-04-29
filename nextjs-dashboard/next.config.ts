@@ -5,8 +5,9 @@ const nextConfig: NextConfig = {
     images: {
       unoptimized: true,
     },
-    basePath: '/cogs125-react-dv',
-    assetPrefix: '/cogs125-react-dv/',
+    basePath: '/cogs125-react-dv', // match your repo name!
+    assetPrefix: '/nextjs-dashboard/',
 };
 
+module.exports = nextConfig;
 export default nextConfig;
