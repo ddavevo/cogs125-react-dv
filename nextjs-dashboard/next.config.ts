@@ -6,7 +6,7 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: '/cogs125-react-dv', // match your repo name!
-  assetPrefix: '/cogs125-react-dv/',
+  assetPrefix: '/cogs125-react-dv',
 };
 
 module.exports = nextConfig;
