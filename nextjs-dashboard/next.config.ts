@@ -9,4 +9,4 @@ const nextConfig = {
   assetPrefix: '/cogs125-react-dv',
 };
 
-module.exports = nextConfig;
+export default nextConfig;
