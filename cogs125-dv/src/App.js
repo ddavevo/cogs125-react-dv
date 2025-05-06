@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/cogs125-react-dv">
       <div className="App">
         <Navbar />
         <Routes>
